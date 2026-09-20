@@ -1,0 +1,13 @@
+C:/sanjeev/VIT/hackathon/Workshop/reqd_files/CMSIS/Include/core_cm4.h:1684:22:__NVIC_EnableIRQ	16	static,ignoring_inline_asm
+../Src/main.c:25:6:LeadOff_GPIO_Init	4	static
+../Src/main.c:37:6:ECG_BandpassFilter	72	static
+../Src/main.c:97:6:ECG_RemoveDC	32	static
+../Src/main.c:133:6:USART2_Init	4	static
+../Src/main.c:201:6:USART2_SendChar	16	static
+../Src/main.c:215:6:USART2_SendString	16	static
+../Src/main.c:227:6:USART2_SendUInt	32	static
+../Src/main.c:274:6:TIM2_Init	4	static
+../Src/main.c:303:6:ADC1_Init	4	static
+../Src/main.c:405:6:DMA2_ADC1_Init	8	static
+../Src/main.c:497:6:DMA2_Stream0_IRQHandler	4	static
+../Src/main.c:525:5:main	8	static,ignoring_inline_asm
